@@ -1,1 +1,1 @@
-# analysis-de-Sentimentos-com-Language-Studio-no-Azure-AI-main
+# analysis-de-Sentimentos-com-Language-Studio-no-Azure-AI
